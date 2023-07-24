@@ -19,7 +19,7 @@
         .container {
           --color-main: orange;
           --color-primary: blue;
-          --color-secondary: darkblue;
+          --color-secondary: orange;
           --color-tertiary: #ffff;
 
           background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
