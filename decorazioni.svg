@@ -17,8 +17,8 @@
         }
 
         .container {
-          --color-main: darkblue;
-          --color-primary: blue;
+          --color-main: blue;
+          --color-primary: darkblue;
           --color-secondary: darkblue;
           --color-tertiary: #ffff;
 
@@ -41,7 +41,7 @@
       </style>
 
       <div class="container">
-        <h1>Hi, welcome, my name is Alessandro!</h1>
+        <h1>Hi, welcome, my name is Alessandro.</h1>
       </div>
     </div>
   </foreignObject>
