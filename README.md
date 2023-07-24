@@ -20,8 +20,8 @@ ________________________________________________________________________________
     Anything that interests you
 - 📫 How to reach me:
 
-  -Linkedin
+  • Linkedin
   
-  -Instagram
+  • Instagram
   
-  -Web
+  • Web
