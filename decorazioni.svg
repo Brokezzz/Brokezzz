@@ -30,9 +30,7 @@
       red, 
       rgba(0, 0, 0, 0)
     ) 1 100%;
-        
-      top: 30vh;
-           display: flex;
+                   display: flex;
           justify-content: center;
           align-items: center;
         text-align: center;
