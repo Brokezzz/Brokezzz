@@ -17,7 +17,7 @@
         }
 
         .container {
-          --color-main: darkblue;
+          --color-main: orange;
           --color-primary: blue;
           --color-secondary: darkblue;
           --color-tertiary: #ffff;
