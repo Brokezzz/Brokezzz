@@ -1,5 +1,6 @@
-### Hi there 👋 
-### I am Zoncada Alessandro, a developer from Italy 🎍
+<div style="width: 100%;">
+  <img src="decorazioni.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 ________________________________________________________
 - 🔭 I’m currently working on
   
