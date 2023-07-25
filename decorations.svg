@@ -5,7 +5,7 @@
      <style>
         
   #foto{
-           border-radius: 30px;
+           display: none;
        }
         @keyframes gradient {
           0% {
