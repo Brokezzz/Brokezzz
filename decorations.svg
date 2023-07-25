@@ -4,7 +4,9 @@
 
      <style>
         
-
+  img{
+           border-radius: 30px;
+       }
         @keyframes gradient {
           0% {
             background-position: 0% 50%;
