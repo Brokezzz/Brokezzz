@@ -16,8 +16,10 @@ ________________________________________________________________________________
 <img src="https://www.php.net/images/meta-image.png" height="60" width="70" >
 <img src="https://www.geekandjob.com/uploads/wiki/eceb15684d4183c66f73c1a9bb777eef708b2b66.png" height="60" width="70" >
 - 🌱 I’m currently learning
+
   
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ABEpeihY--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jd65usaioipnkv5xs5a.png" height="60" width="70" >
+ <img src="https://w7.pngwing.com/pngs/895/275/png-transparent-solidity-ethereum-smart-contract-blockchain-cryptocurrency-blockchain-angle-triangle-logo.png" height="60" width="70" ><img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" height="60" width="70" >
+
 - 💬 Ask me about
 
     Anything that interests you
