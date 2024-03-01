@@ -6,7 +6,8 @@ ________________________________________________________________________________
 
 - 🔭 I’m currently working on
   
-<img id="foto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="60" width="70" >
+<img id="foto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="60" width="70" ><img id="foto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="60" width="70" >
+
 
 _________________________________________________________________________________________________________________________________
 
