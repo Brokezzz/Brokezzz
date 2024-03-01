@@ -19,7 +19,7 @@ ________________________________________________________________________________
 <img id="foto" src="https://www.geekandjob.com/uploads/wiki/eceb15684d4183c66f73c1a9bb777eef708b2b66.png" height="60" width="70" >
 - 🌱 I’m currently learning
 
- <img id="foto" src="https://w7.pngwing.com/pngs/895/275/png-transparent-solidity-ethereum-smart-contract-blockchain-cryptocurrency-blockchain-angle-triangle-logo.png" height="60" width="70" ><img id="foto" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" height="60" width="70" ><img id="foto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" height="60" width="70" >
+<img id="foto" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" height="60" width="70" ><img id="foto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" height="60" width="70" >
 
 - 💬 Ask me about
 
