@@ -7,7 +7,6 @@ ________________________________________________________________________________
 - 🔭 I’m currently working on
   
 <img id="foto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="60" width="70" >
-<img id="foto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" height="60" width="70" >
 <img id="foto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height="60" width="70" >
  <img id="foto" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="60" width="70"><img id="foto" src="https://image.pngaaa.com/779/6447779-middle.png" height="60" width="70" >
 <img id="foto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="60" width="70" >
