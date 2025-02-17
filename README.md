@@ -1,24 +1,33 @@
-_________________________________________________________________________________________________________________________________
+# Hi, I'm Alessandro Zoncada 👋
 
-- 🔭 I’m currently working on
-  
-<img id="foto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="60" width="70" >   <img id="foto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" height="60" width="70" >   <img id="foto" src="https://www.drupal.org/files/project-images/screenshot_361.png" height="60" width="70" ><img id="foto" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="60" width="70" > 
-_________________________________________________________________________________________________________________________________
+### 🔭 I’m currently working on
 
-- 🌱 I’m currently learning
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="60" width="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="60" width="70" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" height="60" width="70" />
 
-<img id="foto" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" height="60" width="70" >
+</p>
 
-_________________________________________________________________________________________________________________________________
+---
 
-- 💬 Ask me about
+### 🌱 I’m currently learning
 
-    Anything that interests you
-  
-- 📫 How to reach me:
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" height="60" width="70" />
+</p>
 
-  • Linkedin: https://www.linkedin.com/in/alessandro-zoncada-b80795284/
-  
-  • Web: https://brokezzz.github.io/myDevFolio/
+---
 
-_________________________________________________________________________________________________________________________________
+### 💬 Ask me about
+
+Anything that interests you! Feel free to ask me about web development, JavaScript, TypeScript, or anything tech-related!
+
+---
+
+### 📫 How to reach me:
+
+- **LinkedIn**: [Alessandro Zoncada](https://www.linkedin.com/in/alessandro-zoncada-b80795284/)
+- **Web Portfolio**: [My DevFolio](https://brokezzz.github.io/myDevFolio/)
+
+---
