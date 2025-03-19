@@ -71,32 +71,32 @@
       <th>Tech Stack</th>
     </tr>
     <tr>
-      <td><a href="https://brokezzz.github.io/myDevFolio/">Frutta</a></td>
+      <td><a href="https://azwebdevfolio.netlify.app/">Frutta</a></td>
       <td>Progetto MERN per un supermercato con gestione prodotti</td>
       <td>ReactJS, TailwindCSS, Node, Express, MongoDB</td>
     </tr>
     <tr>
-      <td><a href="https://brokezzz.github.io/myDevFolio/luca-savioli">Osteopata</a></td>
+      <td><a href="https://azwebdevfolio.netlify.app/luca-savioli">Osteopata</a></td>
       <td>Sito web responsive per un osteopata con prenotazioni online</td>
       <td>ReactJS, TailwindCSS</td>
     </tr>
     <tr>
-      <td><a href="https://brokezzz.github.io/myDevFolio/cepizzaperte">Pizzeria</a></td>
+      <td><a href="https://azwebdevfolio.netlify.app/cepizzaperte">Pizzeria</a></td>
       <td>Sito web con menu interattivo</td>
       <td>ReactJS, TailwindCSS</td>
     </tr>
     <tr>
-      <td><a href="https://brokezzz.github.io/myDevFolio/fasaf">Industria</a></td>
+      <td><a href="https://azwebdevfolio.netlify.app/fasaf">Industria</a></td>
       <td>Sito web aziendale con presentazione prodotti e servizi</td>
       <td>ReactJS, TailwindCSS</td>
     </tr>
     <tr>
-      <td><a href="https://brokezzz.github.io/myDevFolio/edurecord">EduRecord</a></td>
+      <td><a href="https://azwebdevfolio.netlify.app/edurecord">EduRecord</a></td>
       <td>Registro elettronico completo con gestione classi, voti e presenze</td>
       <td>HTML5, CSS, JavaScript, PHP, SQL</td>
     </tr>
     <tr>
-      <td><a href="https://brokezzz.github.io/myDevFolio/Psychologist">Psicologo</a></td>
+      <td><a href="https://azwebdevfolio.netlify.app/Psychologist">Psicologo</a></td>
       <td>Template per psicologo (Questo progetto è stato realizzato esclusivamente a scopo dimostrativo per il mio portfolio. Non è un prodotto reale né destinato a un utilizzo commerciale. È stato sviluppato per mostrare le mie competenze)</td>
       <td>ReactJS, TailwindCSS</td>
     </tr>
@@ -124,7 +124,7 @@
   <h3>📫 Contatti</h3>
   <ul>
     <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/alessandro-zoncada-b80795284/">Alessandro Zoncada</a></li>
-    <li><strong>Portfolio:</strong> <a href="https://brokezzz.github.io/myDevFolio/">My DevFolio</a></li>
+    <li><strong>Portfolio:</strong> <a href="https://azwebdevfolio.netlify.app/">My DevFolio</a></li>
     <li><strong>Email:</strong> <a href="mailto:azoncadaweb@gmail.com">azoncadaweb@gmail.com</a></li>
   </ul>
 </div>
