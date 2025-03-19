@@ -1,9 +1,9 @@
-<!-- Orange Banner at top -->
-<div style="background-color: #FF7F00; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <div align="center">
-    <h1 style="color: white; margin: 0;">Benvenuto</h1>
-  </div>
+<!-- Orange Banner using HTML table -->
+<div align="center">
+  <img src="https://placehold.co/800x100/ff8c00/ffffff?text=Benvenuto! :D" alt="Benvenuto! :D" />
 </div>
+
+
 
 <!-- Header with greeting and animated text -->
 <div align="center">
@@ -72,7 +72,7 @@
     </tr>
     <tr>
       <td><a href="https://brokezzz.github.io/myDevFolio/">Frutta</a></td>
-      <td>Progetto MERN per un supermercato con gestione prodotti e ordini</td>
+      <td>Progetto MERN per un supermercato con gestione prodotti</td>
       <td>ReactJS, TailwindCSS, Node, Express, MongoDB</td>
     </tr>
     <tr>
@@ -82,7 +82,7 @@
     </tr>
     <tr>
       <td><a href="https://brokezzz.github.io/myDevFolio/cepizzaperte">Pizzeria</a></td>
-      <td>Sito web con menu interattivo e sistema di ordini</td>
+      <td>Sito web con menu interattivo</td>
       <td>ReactJS, TailwindCSS</td>
     </tr>
     <tr>
@@ -97,7 +97,7 @@
     </tr>
     <tr>
       <td><a href="https://brokezzz.github.io/myDevFolio/Psychologist">Psicologo</a></td>
-      <td>Template per psicologo (progetto dimostrativo)</td>
+      <td>Template per psicologo (Questo progetto è stato realizzato esclusivamente a scopo dimostrativo per il mio portfolio. Non è un prodotto reale né destinato a un utilizzo commerciale. È stato sviluppato per mostrare le mie competenze)</td>
       <td>ReactJS, TailwindCSS</td>
     </tr>
   </table>
