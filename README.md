@@ -1,3 +1,10 @@
+<!-- Orange Banner at top -->
+<div style="background-color: #FF7F00; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  <div align="center">
+    <h1 style="color: white; margin: 0;">Benvenuto</h1>
+  </div>
+</div>
+
 <!-- Header with greeting and animated text -->
 <div align="center">
   <h1>Ciao, sono Alessandro Zoncada 👋</h1>
