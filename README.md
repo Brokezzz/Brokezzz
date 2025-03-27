@@ -1,7 +1,4 @@
 <!-- Orange Banner using HTML table -->
-<div align="center">
-  <img src="https://placehold.co/800x100/ff8c00/ffffff?text=Benvenuto! :D" alt="Benvenuto! :D" />
-</div>
 
 
 
