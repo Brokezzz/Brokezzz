@@ -1,12 +1,10 @@
 <!-- Orange Banner using HTML table -->
 
-
-
 <!-- Header with greeting and animated text -->
 <div align="center">
   <h1>Ciao, sono Alessandro Zoncada 👋</h1>
-  <h3>Full Stack Developer | Web Developer </h3>
-  <p><em>Bringing Ideas To Life</em></p>
+  <h3>Freelance Full Stack Web Developer</h3>
+  <p><em>Bringing Ideas To Life with Custom Web Solutions</em></p>
 </div>
 
 <hr>
@@ -15,10 +13,24 @@
 <div>
   <h3>🚀 Chi sono</h3>
   <p>
-    Sviluppatore web appassionato con focus su tecnologie moderne e user experience.
-    Specializzato in sviluppo frontend con React e TailwindCSS, ma con solide competenze full-stack.
-    Sempre alla ricerca di nuove sfide e opportunità per crescere professionalmente.
+    Sono un sviluppatore web freelance con una passione per la creazione di esperienze digitali straordinarie. Offro servizi di sviluppo web personalizzati, dalla progettazione e sviluppo di siti web moderni e responsive, fino alla realizzazione di applicazioni web complete.
+    Specializzato in frontend con React e TailwindCSS, ma con una solida esperienza full-stack che mi permette di gestire progetti a 360 gradi.
+    Cerco sempre nuove sfide e opportunità per aiutare le aziende e i professionisti a crescere online.
   </p>
+</div>
+
+<hr>
+
+<!-- Services Section -->
+<div>
+  <h3>💼 Cosa Offro</h3>
+  <ul>
+    <li><strong>Sviluppo Siti Web</strong> - Creazione di siti web moderni, responsive e personalizzati.</li>
+    <li><strong>Web App</strong> - Progettazione e sviluppo di applicazioni web interattive con React, Node.js e altre tecnologie moderne.</li>
+    <li><strong>UI/UX Design</strong> - Design intuitivo e user-friendly per una migliore esperienza utente.</li>
+    <li><strong>SEO e Ottimizzazione</strong> - Ottimizzazione per i motori di ricerca e per una performance veloce.</li>
+    <li><strong>Manutenzione Siti Web</strong> - Manutenzione e monitoraggio siti web</li>
+  </ul>
 </div>
 
 <hr>
@@ -29,15 +41,15 @@
   <table>
     <tr>
       <td><strong>Frontend:</strong></td>
-      <td>React, JavaScript, HTML5, CSS3, TailwindCSS</td>
+      <td>React, JavaScript, TailwindCSS</td>
     </tr>
     <tr>
       <td><strong>Backend:</strong></td>
-      <td>Node.js, Express, PHP</td>
+      <td>Node.js, Express</td>
     </tr>
     <tr>
       <td><strong>Database:</strong></td>
-      <td>MongoDB, SQL</td>
+      <td>MongoDB</td>
     </tr>
     <tr>
       <td><strong>Tools:</strong></td>
@@ -45,62 +57,6 @@
     </tr>
   </table>
 </div>
-
-<hr>
-
-<!-- Currently Learning -->
-<div>
-  <h3>🌱 Sto imparando</h3>
-  <ul>
-    <li><strong>Next.js</strong> - Per creare applicazioni React con rendering server-side e generazione statica</li>
-  </ul>
-</div>
-
-<hr>
-
-<!-- Projects Section -->
-<div>
-  <h3>💻 Progetti recenti</h3>
-  <table>
-    <tr>
-      <th>Nome</th>
-      <th>Descrizione</th>
-      <th>Tech Stack</th>
-    </tr>
-    <tr>
-      <td><a href="https://azwebdevfolio.netlify.app/">Frutta</a></td>
-      <td>Progetto MERN per un supermercato con gestione prodotti</td>
-      <td>ReactJS, TailwindCSS, Node, Express, MongoDB</td>
-    </tr>
-    <tr>
-      <td><a href="https://azwebdevfolio.netlify.app/luca-savioli">Osteopata</a></td>
-      <td>Sito web responsive per un osteopata con prenotazioni online</td>
-      <td>ReactJS, TailwindCSS</td>
-    </tr>
-    <tr>
-      <td><a href="https://azwebdevfolio.netlify.app/cepizzaperte">Pizzeria</a></td>
-      <td>Sito web con menu interattivo</td>
-      <td>ReactJS, TailwindCSS</td>
-    </tr>
-    <tr>
-      <td><a href="https://azwebdevfolio.netlify.app/fasaf">Industria</a></td>
-      <td>Sito web aziendale con presentazione prodotti e servizi</td>
-      <td>ReactJS, TailwindCSS</td>
-    </tr>
-    <tr>
-      <td><a href="https://azwebdevfolio.netlify.app/edurecord">EduRecord</a></td>
-      <td>Registro elettronico completo con gestione classi, voti e presenze</td>
-      <td>HTML5, CSS, JavaScript, PHP, SQL</td>
-    </tr>
-    <tr>
-      <td><a href="https://azwebdevfolio.netlify.app/Psychologist">Psicologo</a></td>
-      <td>Template per psicologo (Questo progetto è stato realizzato esclusivamente a scopo dimostrativo per il mio portfolio. Non è un prodotto reale né destinato a un utilizzo commerciale. È stato sviluppato per mostrare le mie competenze)</td>
-      <td>ReactJS, TailwindCSS</td>
-    </tr>
-  </table>
-</div>
-
-<hr>
 
 <!-- Skills Progress -->
 <div>
@@ -121,7 +77,7 @@
   <h3>📫 Contatti</h3>
   <ul>
     <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/alessandro-zoncada-b80795284/">Alessandro Zoncada</a></li>
-    <li><strong>Portfolio:</strong> <a href="https://azwebdevfolio.netlify.app/">My DevFolio</a></li>
+    <li><strong>Sito Web:</strong> <a href="https://alessandrozoncada.it/">Il Mio Sito Web</a></li>
     <li><strong>Email:</strong> <a href="mailto:azoncadaweb@gmail.com">azoncadaweb@gmail.com</a></li>
   </ul>
 </div>
@@ -132,7 +88,7 @@
 <div>
   <h3>💬 Chiedimi di</h3>
   <p>
-    Sviluppo web, React, TailwindCSS, o qualsiasi argomento tech che ti interessa!
+    Sviluppo web personalizzato, React, TailwindCSS, design responsive, o qualsiasi domanda legata al mondo tech! Sono qui per aiutarti a costruire il sito web dei tuoi sogni.
   </p>
 </div>
 
